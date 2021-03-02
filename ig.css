@@ -220,3 +220,22 @@ body{
 	border-radius: 65px;
 	background: white;
 }
+.caja_r{
+	position: relative;
+	left: 45px;
+	top: 85px;
+	width: 260px;
+	height: 180px;
+	border-radius: 25px;
+	background: #FF0000;
+}
+.triangulo {
+	position: relative;
+	top: 40px;
+	left: 85px;
+    width: 0; 
+    height: 0; 
+    border-left: 100px solid white;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
